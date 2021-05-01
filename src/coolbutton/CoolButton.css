@@ -1,0 +1,10 @@
+.is-rounded {
+  background-color: crimson;
+  margin-right: 1.5rem;
+  color: whitesmoke;
+}
+
+.green-btn {
+  background-color: rgb(85, 207, 85);
+  color: whitesmoke;
+}
