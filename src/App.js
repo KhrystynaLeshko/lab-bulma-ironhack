@@ -2,6 +2,8 @@ import "./App.css";
 import Navbar from "./navbar/Navbar";
 import FormField from "./formfield/FormField";
 import CoolButton from "./coolbutton/CoolButton";
+// import Signup from "./Signup";
+// 👆 uncomment this for Iteration 4
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
       <CoolButton isSmall isSuccess className="green-btn my class">
         Button 2
       </CoolButton>
+      {/* Iteration 4 needs to be uncommented/commented 👇*/}
+      {/* <Signup /> */}
     </div>
   );
 }
